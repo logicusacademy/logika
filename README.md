@@ -9,7 +9,7 @@ Menurut KBBI VI, logika adalah pengetahuan tentang kaidah berpikir.
 ### 1. Logika Induktif
     alur berpikir yang menarik kesimpulan mulai dari pengalaman empiris menuju kepada yang umum atau general
 
-Analogi:
+**Analogi:**
 
 Kamu memperhatikan pola penerimaan mahasiswa di kampus idaman.
 
@@ -24,14 +24,14 @@ Dari data itu, kamu menyimpulkan:
 
 “Kemungkinan tahun ini nilai minimal sekitar 660.” Itu induksi. Kamu menarik kesimpulan umum dari data yang terbatas.
 
-Dalam kehidupan nyata:
+**Dalam kehidupan nyata:**
 
 Induktif adalah berpikir seperti “peneliti kecil.” Kamu mengamati, mencari pola, lalu memperkirakan. Dalam belajar, ini seperti membaca soal-soal tahun lalu untuk memprediksi tipe soal ujian berikutnya.
 
 ### 2. Logika Deduktif
     alur berpikir dengan menarik kesimpulan mulai dari yang umum menuju kepada yang empiris atau hal yang khusus
 
-Analogi:
+**Analogi:**
 
 Kamu tahu aturan umum:
 
@@ -47,7 +47,7 @@ Kesimpulan logis:
 
 Itulah deduksi. Kamu mulai dari hukum umum, lalu menerapkannya ke kasus pribadi.
 
-Dalam kehidupan nyata:
+**Dalam kehidupan nyata:**
 
 Deduktif seperti “strategi rasional.” Kamu menyusun rencana berdasarkan prinsip yang terbukti efektif. Misal, kamu tahu pola belajar teratur lebih efektif dari belajar mendadak. Maka kamu tidak menunggu malam sebelum ujian.
 
@@ -55,7 +55,7 @@ Deduktif seperti “strategi rasional.” Kamu menyusun rencana berdasarkan prin
 
 Arah berpikir: berpikir dengan angka dan rasio.
 
-Analogi:
+**Analogi:**
 
 Kamu menghitung peluang lolos ke jurusan Teknik Kimia.
 
@@ -67,7 +67,7 @@ Berarti kamu harus termasuk 2 dari setiap 100 orang terbaik.
 
 Ini membuatmu sadar bahwa perlu strategi nilai tinggi dan tes yang kuat.
 
-Dalam kehidupan nyata:
+**Dalam kehidupan nyata:**
 
 Kuantitatif adalah “berpikir seperti analis.” Kamu menakar kemampuan, waktu belajar, peluang diterima, dan membuat keputusan logis berdasarkan data.
 
