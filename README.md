@@ -28,6 +28,32 @@ Dari data itu, kamu menyimpulkan:
 
 Induktif adalah berpikir seperti “peneliti kecil.” Kamu mengamati, mencari pola, lalu memperkirakan. Dalam belajar, ini seperti membaca soal-soal tahun lalu untuk memprediksi tipe soal ujian berikutnya.
 
+Induksi bergerak dari contoh khusus ke kesimpulan umum. Kesimpulan bersifat mungkin benar, bukan pasti.
+ 
+a. Model Analisis Argumen Stephen Toulmin
+
+Argumen terdiri atas tiga komponen inti:
+
+• Klaim: apa yang ingin dibuktikan.
+
+• Data: fakta yang mendukung klaim.
+
+• Warrant (dasar pikir): alasan yang menghubungkan data ke klaim.
+ 
+Contoh Data: Siswa yang ikut bimbingan rutin naik nilainya.
+
+Klaim: Bimbingan rutin membantu peningkatan nilai.
+
+Warrant: Kegiatan belajar terstruktur meningkatkan pemahaman.
+ 
+b. Asumsi
+
+Asumsi adalah bagian yang tidak disebutkan, tetapi dianggap benar agar argumen bekerja. Kamu perlu menemukan asumsi tersembunyi dalam soal.
+ 
+Contoh "Jika transportasi publik ditingkatkan, kemacetan menurun."
+
+Asumsi: Masyarakat mau beralih dari kendaraan pribadi.
+
 ### 2. Logika Deduktif
     alur berpikir dengan menarik kesimpulan mulai dari yang umum menuju kepada yang empiris atau hal yang khusus
 
