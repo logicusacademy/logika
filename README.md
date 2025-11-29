@@ -67,28 +67,6 @@ Pada TPS, tugas kamu adalah menilai apakah suatu simpulan induktif wajar atau te
 ### 2. Logika Deduktif
     alur berpikir dengan menarik kesimpulan mulai dari yang umum menuju kepada yang empiris atau hal yang khusus
 
-**Analogi:**
-
-Kamu tahu aturan umum:
-
-“Semua siswa yang rutin latihan soal tiap hari punya peluang tinggi lolos ujian.”
-
-Kamu juga tahu:
-
-“Kamu rutin latihan soal tiap hari.”
-
-Kesimpulan logis:
-
-“Kamu punya peluang tinggi lolos ujian.”
-
-Itulah deduksi. Kamu mulai dari hukum umum, lalu menerapkannya ke kasus pribadi.
-
-**Dalam kehidupan nyata:**
-
-Deduktif seperti “strategi rasional.” Kamu menyusun rencana berdasarkan prinsip yang terbukti efektif. Misal, kamu tahu pola belajar teratur lebih efektif dari belajar mendadak. Maka kamu tidak menunggu malam sebelum ujian.
-
-===
-
 Penalaran deduktif
  
 4.1. Definisi
