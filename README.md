@@ -15,53 +15,6 @@ Pada Tes Potensi Skolastik (TPS), hubungan ini tampak jelas dalam subtes Penalar
 ### 1. Logika Induktif
     alur berpikir yang menarik kesimpulan mulai dari pengalaman empiris menuju kepada yang umum atau general
 
-**Analogi:**
-
-Kamu memperhatikan pola penerimaan mahasiswa di kampus idaman.
-
-Tahun lalu, rata-rata nilai tes masuk 650.
-
-Tahun sebelumnya, 640.
-
-Tahun ini, kamu lihat tren meningkat.
-
-
-Dari data itu, kamu menyimpulkan:
-
-“Kemungkinan tahun ini nilai minimal sekitar 660.” Itu induksi. Kamu menarik kesimpulan umum dari data yang terbatas.
-
-**Dalam kehidupan nyata:**
-
-Induktif adalah berpikir seperti “peneliti kecil.” Kamu mengamati, mencari pola, lalu memperkirakan. Dalam belajar, ini seperti membaca soal-soal tahun lalu untuk memprediksi tipe soal ujian berikutnya.
-
-Induksi bergerak dari contoh khusus ke kesimpulan umum. Kesimpulan bersifat mungkin benar, bukan pasti.
- 
-a. Model Analisis Argumen Stephen Toulmin
-
-Argumen terdiri atas tiga komponen inti:
-
-• Klaim: apa yang ingin dibuktikan.
-
-• Data: fakta yang mendukung klaim.
-
-• Warrant (dasar pikir): alasan yang menghubungkan data ke klaim.
- 
-Contoh Data: Siswa yang ikut bimbingan rutin naik nilainya.
-
-Klaim: Bimbingan rutin membantu peningkatan nilai.
-
-Warrant: Kegiatan belajar terstruktur meningkatkan pemahaman.
- 
-b. Asumsi
-
-Asumsi adalah bagian yang tidak disebutkan, tetapi dianggap benar agar argumen bekerja. Kamu perlu menemukan asumsi tersembunyi dalam soal.
- 
-Contoh "Jika transportasi publik ditingkatkan, kemacetan menurun."
-
-Asumsi: Masyarakat mau beralih dari kendaraan pribadi.
-
-===
-
 Penalaran induktif
  
 3.1 Definisi
