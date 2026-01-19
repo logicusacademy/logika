@@ -16,38 +16,44 @@ Pada Tes Potensi Skolastik (TPS), hubungan ini tampak jelas dalam subtes Penalar
     alur berpikir yang menarik kesimpulan mulai dari pengalaman empiris menuju kepada yang umum atau general
 
 Penalaran induktif
- 
-3.1 Definisi
- 
-Penalaran induktif adalah penarikan kesimpulan umum dari sejumlah kasus khusus. Arah berpikirnya dari data ke pola.
- 
-Contoh sederhana. Beberapa tahun terakhir, nilai minimal masuk suatu prodi sekitar 640, 650, 660. Kamu menyimpulkan, tahun ini mungkin sekitar 670. Kesimpulan ini kuat, tetapi tidak pasti.
- 
-3.2. Ciri penalaran induktif
- 
-a. Berbasis pengamatan, data, atau contoh.
- 
-b. Kesimpulan bersifat probabilistik, artinya mungkin benar, tetapi tidak mutlak.
- 
-c. Sangat penting dalam sains dan riset.
- 
-d. Di TPS, muncul dalam soal yang minta kamu: a) melihat pola b) menyimpulkan tren c) menilai apakah simpulan terlalu umum atau tidak
 
-3.3. Bentuk penalaran induktif
- 
+1.1 Definisi
+
+Penalaran induktif adalah penarikan kesimpulan umum dari sejumlah kasus khusus. Arah berpikirnya dari data ke pola.
+
+Contoh sederhana. Beberapa tahun terakhir, nilai minimal masuk suatu prodi sekitar 640, 650, 660. Kamu menyimpulkan, tahun ini mungkin sekitar 670. Kesimpulan ini kuat, tetapi tidak pasti.
+
+1.2. Ciri penalaran induktif
+
+a. Berbasis pengamatan, data, atau contoh.
+
+b. Kesimpulan bersifat probabilistik, artinya mungkin benar, tetapi tidak mutlak.
+
+c. Sangat penting dalam sains dan riset.
+
+d. Di TPS, muncul dalam soal yang minta kamu:
+
+a) melihat pola
+
+b) menyimpulkan tren
+
+c) menilai apakah simpulan terlalu umum atau tidak
+
+1.3. Bentuk penalaran induktif
+
 a) Generalisasi Dari beberapa contoh, kamu menarik kesimpulan umum. Contoh: dari beberapa soal tps tahun lalu, kamu melihat pola bahwa penalaran umum selalu muncul. Kamu menyimpulkan, materi itu termasuk favorit. Kekuatan generalisasi tergantung pada: jumlah contoh, variasi contoh, dan apakah contoh mewakili populasi.
- 
+
 b) Analogi Kamu membandingkan dua situasi yang mirip untuk memperkirakan hal lain. Contoh: kamu melihat kakak kelas yang rajin latihan soal tps, nilai mereka naik. Kamu berpikir, jika kamu meniru pola itu, kemungkinan hasilmu juga naik. Analogi kuat jika kemiripan yang dipakai relevan, bukan sekadar kebetulan.
- 
+
 c) Hubungan kausalitas Induksi juga dipakai untuk mencari hubungan sebab akibat. Contoh: setiap kali kamu begadang, keesokan harinya fokusmu turun. Dari pengamatan berulang, kamu menyimpulkan begadang memengaruhi konsentrasi. Masalah klasik di sini adalah membedakan antara:
- 
+
 1. kebetulan
- 
+
 2. hubungan benar benar sebab akibat
- 
+
 3. efek dari faktor lain
-  
-3.4. Kelebihan dan keterbatasan induksi
+
+1.4. Kelebihan dan keterbatasan induksi
 
 Kelebihan:
 
@@ -58,7 +64,7 @@ Kelebihan:
 Keterbatasan:
 
 1. Tidak menjamin kebenaran mutlak.
- 
+
 2. Rentan pada generalisasi berlebihan. Contoh: menilai semua siswa dari satu dua pengalaman buruk.
 
 Pada TPS, tugas kamu adalah menilai apakah suatu simpulan induktif wajar atau terlalu jauh.
