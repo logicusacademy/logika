@@ -25,7 +25,6 @@ Contoh sederhana. Beberapa tahun terakhir, nilai minimal masuk suatu prodi sekit
  
 3.2. Ciri penalaran induktif
  
- 
 a. Berbasis pengamatan, data, atau contoh.
  
 b. Kesimpulan bersifat probabilistik, artinya mungkin benar, tetapi tidak mutlak.
@@ -49,7 +48,7 @@ c) Hubungan kausalitas Induksi juga dipakai untuk mencari hubungan sebab akibat.
 3. efek dari faktor lain
   
 3.4. Kelebihan dan keterbatasan induksi
- 
+
 Kelebihan:
 
 1. Membantu membuat prediksi.
@@ -70,7 +69,7 @@ Pada TPS, tugas kamu adalah menilai apakah suatu simpulan induktif wajar atau te
 Penalaran deduktif
  
 4.1. Definisi
- 
+
 Penalaran deduktif adalah penarikan kesimpulan khusus dari pernyataan umum. Jika struktur dan premis benar, kesimpulan pasti benar.
  
 Contoh klasik. Semua manusia akan mati. Socrates adalah manusia. Maka Socrates akan mati.
@@ -78,8 +77,7 @@ Contoh klasik. Semua manusia akan mati. Socrates adalah manusia. Maka Socrates a
 Struktur ini sahih. Jika dua premis benar, kesimpulan tidak bisa salah.
  
 4.2. Ciri penalaran deduktif
- 
- 
+
 a. Berangkat dari aturan umum, definisi, atau hukum.
  
 b. Memberi kesimpulan yang pasti benar jika premis benar.
@@ -87,9 +85,7 @@ b. Memberi kesimpulan yang pasti benar jika premis benar.
 c. Sangat dominan dalam matematika, logika formal, dan banyak soal tps.
  
 d. Sering tampil dalam bentuk: a) silogisme kategoris b) pernyataan “jika maka” c) pilihan “A atau B” d) kombinasi beberapa premis
- 
 
- 
 4.3 Bentuk utama penalaran deduktif yang sering muncul di tps
  
 a) Modus ponens
