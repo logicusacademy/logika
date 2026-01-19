@@ -73,16 +73,16 @@ Pada TPS, tugas kamu adalah menilai apakah suatu simpulan induktif wajar atau te
     alur berpikir dengan menarik kesimpulan mulai dari yang umum menuju kepada yang empiris atau hal yang khusus
 
 Penalaran deduktif
- 
-4.1. Definisi
+
+2.1. Definisi
 
 Penalaran deduktif adalah penarikan kesimpulan khusus dari pernyataan umum. Jika struktur dan premis benar, kesimpulan pasti benar.
- 
+
 Contoh klasik. Semua manusia akan mati. Socrates adalah manusia. Maka Socrates akan mati.
- 
+
 Struktur ini sahih. Jika dua premis benar, kesimpulan tidak bisa salah.
- 
-4.2. Ciri penalaran deduktif
+
+2.2. Ciri penalaran deduktif
 
 a. Berangkat dari aturan umum, definisi, atau hukum.
  
@@ -92,7 +92,7 @@ c. Sangat dominan dalam matematika, logika formal, dan banyak soal tps.
  
 d. Sering tampil dalam bentuk: a) silogisme kategoris b) pernyataan “jika maka” c) pilihan “A atau B” d) kombinasi beberapa premis
 
-4.3 Bentuk utama penalaran deduktif yang sering muncul di tps
+2.3 Bentuk utama penalaran deduktif yang sering muncul di tps
  
 a) Modus ponens
 
@@ -101,9 +101,9 @@ Jika A maka B
 A benar
 
 maka B benar
- 
+
 Contoh: jika seorang siswa disiplin belajar maka nilainya baik rina disiplin belajar maka nilai rina baik
- 
+
 b) Modus tollens
 
 Jika A maka B
@@ -113,11 +113,11 @@ B tidak terjadi
 maka A tidak terjadi
  
 Contoh: jika hujan maka jalan basah jalan tidak basah maka tidak hujan
- 
+
 c) Silogisme kategoris memakai kata semua, sebagian, tidak ada.
- 
+
 Contoh: semua siswa kelas 12 mengikuti simulasi TPS budi adalah siswa kelas 12 maka budi mengikuti simulasi tps
- 
+
 d) Silogisme hipotetis
 
 Jika A maka B
@@ -125,9 +125,9 @@ Jika A maka B
 Jika B maka C
 
 Jadi, jika A maka C
- 
+
 Contoh: jika kamu belajar teratur maka pemahaman meningkat jika pemahaman meningkat maka nilai tps naik maka jika kamu belajar teratur maka nilai tps naik
- 
+
 e) Dilema
 
 Jika A maka C
@@ -137,18 +137,17 @@ Jika B maka C
 A atau B maka C
  
 Contoh: jika masuk jalur snbt kamu harus belajar serius jika masuk jalur mandiri kamu juga harus belajar serius kamu akan memilih snbt atau mandiri maka kamu tetap harus belajar serius
- 
-4.4. Peran deduksi dalam soal TPS
- 
+
+2.4. Peran deduksi dalam soal TPS
+
 Dalam TPS, penalaran deduktif muncul saat kamu diminta:
  
- 
 1. Menentukan apakah simpulan pasti benar, mungkin benar, atau salah.
- 
+
 2. Menilai apakah suatu argumen valid atau mengandung kesalahan.
- 
+
 3. Mengikuti alur “jika maka” sampai ke ujung.
- 
+
 4. Menggabungkan beberapa informasi menjadi satu simpulan.
 
 Logika memberi aturan. Penalaran adalah cara kamu memakai aturan itu pada teks, tabel, grafik, dan situasi. Menguasai induksi dan deduksi membuatmu tidak hanya bisa mengerjakan soal tps, tetapi juga membuat keputusan belajar dan karier dengan cara yang lebih sadar dan terukur.
@@ -186,3 +185,5 @@ Dengan deduktif, kamu mengatur strategi berdasarkan prinsip yang benar.
 Dengan kuantitatif, kamu menghitung risiko dan menyesuaikan usaha.
 
 Ketiga logika ini membuatmu tidak sekadar berharap, tetapi berpikir sistematis untuk mencapai tujuan.
+
+
