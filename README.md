@@ -6,7 +6,7 @@
 
 Menurut KBBI VI, logika adalah pengetahuan tentang kaidah berpikir. Logika merupakan ilmu yang mempelajari aturan berpikir benar. Logika memberi standar bagaimana sebuah kesimpulan harus mengikuti premis (apa yang dianggap benar). Logika tidak menilai isi pernyataan, tetapi menilai bentuk hubungan antara pernyataan itu. Jika bentuknya benar, maka kesimpulan wajib benar.
 
-Penalaran adalah proses berpikir yang terjadi di dalam diri seseorang saat mengolah informasi, mencari hubungan, dan menarik kesimpulan. Penalaran bisa kuat atau lemah, bergantung apakah ia mengikuti kaidah logika. Jika penalaran mengikuti logika, maka proses berpikir menjadi runtut, konsisten, dan tidak terjebak kesalahan.
+Penalaran adalah proses berpikir logis (sesuai dengan logika) yang terjadi di dalam diri seseorang saat mengolah informasi, mencari hubungan, dan menarik kesimpulan. Penalaran bisa kuat atau lemah, bergantung apakah ia mengikuti kaidah logika. Jika penalaran mengikuti logika, maka proses berpikir menjadi runtut, konsisten, dan tidak terjebak kesalahan.
 
 Hubungan logika dan penalaran bersifat langsung. Logika adalah aturannya, penalaran adalah pelaksanaannya. Logika memberi cara kerja, penalaran menjalankan cara kerja itu pada situasi nyata. Dalam konteks belajar, logika membantu menilai apakah simpulan wajar, apakah argumen valid, dan apakah hubungan antar informasi sah.
 
