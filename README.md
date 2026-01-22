@@ -41,7 +41,7 @@ c) menilai apakah simpulan terlalu umum atau tidak
 
 1.3. Bentuk penalaran induktif
 
-a) Generalisasi Dari beberapa contoh, kamu menarik kesimpulan umum. Contoh: dari beberapa soal tps tahun lalu, kamu melihat pola bahwa penalaran umum selalu muncul. Kamu menyimpulkan, materi itu termasuk favorit. Kekuatan generalisasi tergantung pada: jumlah contoh, variasi contoh, dan apakah contoh mewakili populasi.
+a) Generalisasi Dari beberapa contoh, kamu menarik kesimpulan umum. Contoh: dari beberapa soal tps tahun lalu, kamu melihat pola bahwa penalaran umum selalu muncul. Kamu menyimpulkan, materi itu termasuk favorit. Kekuatan generalisasi bergantung pada: jumlah contoh, variasi contoh, dan apakah contoh mewakili populasi.
 
 b) Analogi Kamu membandingkan dua situasi yang mirip untuk memperkirakan hal lain. Contoh: kamu melihat kakak kelas yang rajin latihan soal tps, nilai mereka naik. Kamu berpikir, jika kamu meniru pola itu, kemungkinan hasilmu juga naik. Analogi kuat jika kemiripan yang dipakai relevan, bukan sekadar kebetulan.
 
