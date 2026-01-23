@@ -8,7 +8,7 @@ Menurut KBBI VI, logika adalah pengetahuan tentang kaidah berpikir. Logika merup
 
 Penalaran adalah proses berpikir logis (sesuai dengan logika) yang terjadi di dalam diri seseorang saat mengolah informasi, mencari hubungan, dan menarik kesimpulan. Penalaran bisa kuat atau lemah, bergantung apakah ia mengikuti kaidah logika. Jika penalaran mengikuti logika, maka proses berpikir menjadi runtut, konsisten, dan tidak terjebak kesalahan.
 
-Hubungan logika dan penalaran bersifat langsung. Logika adalah aturannya, penalaran adalah pelaksanaannya. Logika memberi cara kerja, penalaran menjalankan cara kerja itu pada situasi nyata. Dalam konteks belajar, logika membantu menilai apakah simpulan wajar, apakah argumen valid, dan apakah hubungan antar informasi sah.
+Hubungan logika dan penalaran bersifat langsung. Logika adalah aturannya, penalaran adalah pelaksanaannya. Logika menentukan cara kerja, penalaran menjalankan cara kerja itu pada situasi nyata. Dalam konteks belajar, logika membantu menilai apakah simpulan wajar, apakah argumen valid, dan apakah hubungan antar informasi sah.
 
 Pada Tes Potensi Skolastik (TPS), hubungan ini tampak jelas dalam subtes Penalaran Umum. Subtes ini menilai kemampuan menggunakan logika dalam bentuk penalaran induktif dan deduktif. Kamu diminta memahami teks, grafik, hubungan sebab akibat, pola angka, atau aturan “jika maka”, lalu menarik simpulan yang sesuai. Dengan kata lain, Penalaran Umum adalah tempat kamu menerapkan logika sebagai alat berpikir. Subtes ini bukan menguji hafalan, tetapi ketepatan cara berpikir.
 
