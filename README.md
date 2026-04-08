@@ -185,3 +185,4 @@ Dengan deduktif, kamu mengatur strategi berdasarkan prinsip yang benar.
 Dengan kuantitatif, kamu menghitung risiko dan menyesuaikan usaha.
 
 Ketiga logika ini membuatmu tidak sekadar berharap, tetapi berpikir sistematis untuk mencapai tujuan.
+
